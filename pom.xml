@@ -4,7 +4,7 @@
 	<groupId>com.skyworx</groupId>
 	<artifactId>tukangdependency</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>pom</packaging>
+	<packaging>jar</packaging>
 
 	<dependencies>
 		<dependency>
@@ -23,6 +23,11 @@
 		<repository>
 			<id>fdvsolution.public</id>
 			<url>http://archiva.fdvs.com.ar/repository/public1/</url>
+		</repository>
+		
+		<repository>
+			<id>fdvsolution.public</id>
+			<url>http://repository.jboss.org/nexus/content/groups/public-jboss</url>
 		</repository>
 	</repositories>
 
