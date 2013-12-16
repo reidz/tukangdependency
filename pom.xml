@@ -8,10 +8,10 @@
 
 	<dependencies>
 		<dependency>
-			<groupId>ar.com.fdvs</groupId>
-			<artifactId>DynamicJasper</artifactId>
-			<version>5.0.0</version>
-		</dependency>
+      <groupId>ar.com.fdvs</groupId>
+      <artifactId>DynamicJasper</artifactId>
+      <version>5.0.0</version>
+    </dependency>
 		<dependency>
 			<groupId>net.sf.jasperreports</groupId>
 			<artifactId>jasperreports</artifactId>
@@ -21,9 +21,9 @@
 
 	<repositories>
 		<repository>
-			<id>fdvsolution.public</id>
-			<url>http://archiva.fdvs.com.ar/repository/public1/</url>
-		</repository>
+      <id>fdvsolution.public</id>
+      <url>http://archiva.fdvs.com.ar/repository/public1/</url>
+    </repository>
 		
 		<repository>
 			<id>publicjboss</id>
